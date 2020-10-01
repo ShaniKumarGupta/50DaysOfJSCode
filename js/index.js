@@ -1,3 +1,4 @@
+console.time();
 console.log("Hii!! JavaScript");
 
 // JS as Calculator
@@ -17,3 +18,17 @@ console.table({name: "Shani Kumar Gupta", age: 23, company: "Gemini Solutions Pv
 
 // console warning
 console.warn('This is my warning');
+
+// console.clear()   // ctrl + / :::::: for comment one liner statement
+console.timeEnd();
+
+console.assert(566<186, 'Age > 189 is not possible');
+console.error('This is an error');
+
+/*
+:::::::: Multiline comment ::::::::::
+this 
+is a 
+multiline comment
+
+*/
