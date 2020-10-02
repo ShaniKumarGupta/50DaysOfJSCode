@@ -36,3 +36,8 @@ is a
 multiline comment
 
 */
+
+// Function
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
